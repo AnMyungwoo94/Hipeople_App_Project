@@ -4,7 +4,11 @@
 
 ![image](https://github.com/AnMyungwoo94/Hipeople_App/assets/126849689/ea9e85bc-19db-4b79-ba24-6f56d188d3d0)
 
-https://github.com/AnMyungwoo94/Hipeople_DatingApp/assets/126849689/ed22f930-e806-4d99-93a9-bac18d834f85
+
+
+
+
+https://github.com/AnMyungwoo94/Hipeople_App/assets/126849689/e4ff2a73-3e26-489b-b854-334bb2162d44
 
 
 
