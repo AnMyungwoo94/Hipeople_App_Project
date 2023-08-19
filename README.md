@@ -1,7 +1,10 @@
 # Hipeople_DatingApp
 # 소개팅앱 프로젝트
+## 👏8/19일 notification 알림기능 구현완료(상대방이 보낸 메시지 확인가능)
 
+![image](https://github.com/AnMyungwoo94/Hipeople_App/assets/126849689/ea9e85bc-19db-4b79-ba24-6f56d188d3d0)
 https://github.com/AnMyungwoo94/Hipeople_DatingApp/assets/126849689/ed22f930-e806-4d99-93a9-bac18d834f85
+
 
 
 ## ▶ 앱 소개
